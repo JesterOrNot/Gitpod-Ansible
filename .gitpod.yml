@@ -1,3 +1,7 @@
 image:
   file: .gitpod.Dockerfile
 
+
+vscode:
+  extensions:
+    - vscoss.vscode-ansible@0.5.2:Mff9FZmh2X9uPnMB9kEzCA==
